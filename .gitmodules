@@ -1,0 +1,24 @@
+[submodule "ti-rslk-uart-spi"]
+	path = ti-rslk-uart-spi
+	url = git@github.com:michaelgranberryii/ti-rslk-uart-spi.git
+[submodule "ti-rslk-timer-interrupts"]
+	path = ti-rslk-timer-interrupts
+	url = git@github.com:michaelgranberryii/ti-rslk-timer-interrupts.git
+[submodule "ti-rslk-tachometer"]
+	path = ti-rslk-tachometer
+	url = git@github.com:michaelgranberryii/ti-rslk-tachometer.git
+[submodule "ti-rslk-pwm-servo-motor"]
+	path = ti-rslk-pwm-servo-motor
+	url = git@github.com:michaelgranberryii/ti-rslk-pwm-servo-motor.git
+[submodule "ti-rslk-line-follower"]
+	path = ti-rslk-line-follower
+	url = git@github.com:michaelgranberryii/ti-rslk-line-follower.git
+[submodule "ti-rslk-i2c-light-distance-sensor"]
+	path = ti-rslk-i2c-light-distance-sensor
+	url = git@github.com:michaelgranberryii/ti-rslk-i2c-light-distance-sensor.git
+[submodule "ti-rslk-gpio"]
+	path = ti-rslk-gpio
+	url = git@github.com:michaelgranberryii/ti-rslk-gpio.git
+[submodule "ti-rslk-adc-object-avoidance-follower"]
+	path = ti-rslk-adc-object-avoidance-follower
+	url = git@github.com:michaelgranberryii/ti-rslk-adc-object-avoidance-follower.git
