@@ -9,4 +9,4 @@ A collection of robotics projects developed on the TI-RSLK robot kit. The projec
 * [Tachometer](https://github.com/michaelgranberryii/ti-rslk-tachometer)
 * [PWM for Servo Motor and Gearmotor](https://github.com/michaelgranberryii/ti-rslk-pwm-servo-motor)
 * [Timers and Interrupts](https://github.com/michaelgranberryii/ti-rslk-timer-interrupts)
-* [GPIO](https://github.com/michaelgranberryii/ti-rslk-gpio)
+* [GPIO - LEDs - Switches - Push Buttons](https://github.com/michaelgranberryii/ti-rslk-gpio)
